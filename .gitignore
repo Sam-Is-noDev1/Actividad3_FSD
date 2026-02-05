@@ -1,2 +1,8 @@
 # NodeJS
 node_modules/
+
+# Archivos locales
+guiakilo.md
+
+# Archivos de JetBrains IDE
+.idea/
