@@ -1,5 +1,8 @@
 # NodeJS
 node_modules/
+.env
+.DS_Store
+*.log
 
 # Archivos locales
 guiakilo.md
